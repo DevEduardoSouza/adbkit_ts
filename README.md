@@ -101,4 +101,3 @@ If you have any questions or suggestions, feel free to reach out:
 
 ---
 
-This version is now in English and ready to be used in your repository. Let me know if you need further adjustments! 😊
